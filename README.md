@@ -1,17 +1,4 @@
 <!-- ### Hi there 👋
-
-**rex-suresh/rex-suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ### Hey there 👋🏻, I'm <span style="color:red">Suresh Kumar</span> and my ⚡️ is programming!
@@ -23,7 +10,7 @@ Here are some ideas to get you started:
 #### Some stuff about me :
 
 - 💻 I’m currently working in **Thoughtworks India**
-- 💡 Learning Flutter and Frontend Development
+- 💡 Expertise in React Native and Frontend Development
 - 🛠️ Fun Fact: I have a Diploma in Mechanical engineering
 
 #### Some GitHub statistics :
